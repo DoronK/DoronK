@@ -37,5 +37,5 @@ When I'm not profiling memory leaks or architectural boundaries, I'm usually foc
 
 ### 📫 Connect with Me
 * 💼 [LinkedIn](https://www.linkedin.com/in/doron-kakuli/)
-* 🌐 [Medium](https://medium.com/@doronkakuli)
+* 📝 [Medium](https://medium.com/@doronkakuli)
 * 🌐 [Portfolio / Website](https://yourdomain.com) (Coming soon!)
